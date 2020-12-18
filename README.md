@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi Everyone,
+My name is Mariusz and I am here to design websites.
